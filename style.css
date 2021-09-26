@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.colorDiv{
+    height: 25vh;
+}
+
+.colorDiv p{
+    text-align: center;
+}
+
+#div1{
+    background-color: #FF0000;
+}
+
+#div2{
+    background-color: #FF8800;
+}
+
+#div3{
+    background-color: #FFFF00;
+}
