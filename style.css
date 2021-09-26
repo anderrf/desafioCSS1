@@ -11,10 +11,13 @@ body{
 
 .colorDiv{
     height: 25vh;
+    padding-top: 1em;
 }
 
 .colorDiv p{
     text-align: center;
+    font-family: tahoma;
+    font-size: 18px;
 }
 
 #div1{
